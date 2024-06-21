@@ -1,4 +1,7 @@
-## Hi there 👋
+### 👋 I'm Paul Weiss, Engineering Manager at [IOHK](https://iohk.io/)
+
+- 🔭 I’m currently working on innovative blockchain technology using Rust and Haskell
+
 
 <!--
 **paul-weiss/paul-weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
