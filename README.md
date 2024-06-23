@@ -1,7 +1,7 @@
 ### 👋 I'm Paul Weiss, Engineering Manager at [IOHK](https://iohk.io/)
 
 - 🔭 I’m currently working on innovative blockchain technology using Rust and Haskell
-- 💬 Ask me about [open roles](https://apply.workable.com/io-global/#jobs) if you are an engineer
+- 💬 Ask me about [open roles](https://apply.workable.com/io-global/#jobs) if you're an engineer
 
 <!--
 **paul-weiss/paul-weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
