@@ -5,7 +5,7 @@
 
   ---
 
-  ## We're building the infrastructure for intelligence that can't be captured.
+  ## Building the infrastructure for intelligence that can't be captured.
 
   The convergence is here: **AI models that prove their own correctness. Blockchains with quantum-resistant cryptography. Neural networks that learn on encrypted data.** This isn't science fiction—it's engineering problems waiting for
   builders.
